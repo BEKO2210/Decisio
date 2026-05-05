@@ -26,3 +26,13 @@ dev-dist
 
 # OS
 Thumbs.db
+
+# TypeScript incremental build cache
+*.tsbuildinfo
+
+# Ruflo / claude-flow workspace (per-developer; not project source)
+.claude/
+.claude-flow/
+.swarm/
+.mcp.json
+CLAUDE.md
